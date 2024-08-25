@@ -1,0 +1,18 @@
+clear cache - npx expo start -c
+for safe-area-context  = npm install react-native-safe-area-context
+add eslint - npx expo lint
+to install prettier: npx expo install -- --save-dev prettier eslint-config-prettier eslint-plugin-prettier
+
+now update eslintrc.js
+```
+module.exports = {
+  extends: ['expo', 'prettier'],
+  plugins: ['prettier'],
+  rules: {
+    'prettier/prettier': 'error',
+  },
+};
+
+```
+
+
