@@ -16,3 +16,4 @@ module.exports = {
 ```
 
 
+TouchableOpacity -> button as web
