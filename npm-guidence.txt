@@ -17,3 +17,7 @@ module.exports = {
 
 
 TouchableOpacity -> button as web
+View is div in mobile world
+
+
+for swiping cards -> npm i react-native-swiper
