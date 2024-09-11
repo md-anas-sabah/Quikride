@@ -8,7 +8,7 @@
     "scheme": "quikride",
     "userInterfaceStyle": "automatic",
     "splash": {
-      "image": "./assets/images/splash.jpg",
+      "image": "./assets/images/splash.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -22,7 +22,7 @@
         "backgroundColor": "#ffffff"
       },
       "splash": {
-        "image": "./assets/images/splash.jpg",
+        "image": "./assets/images/splash.png",
         "resizeMode": "cover",
         "backgroundColor": "#ffffff"
       }
